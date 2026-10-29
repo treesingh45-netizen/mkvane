@@ -1,0 +1,6 @@
+{
+  "name": "MK Vane — Man and Van, Removals & Transport Ipswich",
+  "description": "Man and van, removals, and transport enquiries in Ipswich, Suffolk. Share your collection and delivery details with MK Vane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

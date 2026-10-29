@@ -1,0 +1,1255 @@
+COMPLETE WEBSITE BUILD PROMPT — MK VANE
+
+Premium 7-Page Removals, Man and Van Website + Booking Experience
+
+1. PROJECT OVERVIEW
+
+Build a complete, premium, professionally designed, fully responsive seven-page website for MK Vane, a man-and-van, removals, and transportation business based in Ipswich, Suffolk, United Kingdom.
+
+The website should be long-form, elegant, informative, visually impressive, and conversion-focused. It must have a genuine professional design, detailed written content, excellent typography, smooth scrolling, and an intuitive booking interface.
+
+Do not build a simple one-page landing page. Create seven fully separate pages with their own layouts, meaningful content, navigation, and SEO metadata. Every page should contain multiple well-designed sections and support natural vertical scrolling.
+
+The central objective is to help customers understand the services, enter their collection and delivery locations, explain what needs moving, request a quote, and contact the business easily.
+
+Build an experience that feels like a professional transport-booking platform, not a generic AI-generated website template.
+
+2. BUSINESS INFORMATION
+
+Use the following supplied information throughout the website:
+
+Brand Name: MK Vane
+
+Business Category: Man and Van, Removals and Transport Services
+
+Telephone: +44 7708 632170
+
+Email: SERVICES@gmail.com
+
+Business Address: 3 Mersey Road, Ipswich, IP3 0QP, United Kingdom
+
+Primary Location: Ipswich, Suffolk, United Kingdom
+
+Logo: Use the supplied grayscale delivery van icon.
+
+Primary Font Direction: The Seasons and elegant signature-style typography.
+
+Brand Colors: Grayscale, charcoal, silver, and white, matching the supplied logo.
+
+The brand must always be written as MK Vane. Do not use the previous longer business name as the primary brand identity. Use the same spelling in the header, website content, contact page, footer, favicon metadata, and social-sharing metadata.
+
+Do not invent company registration information, operating hours, prices, fleet size, insurance coverage, years of experience, customer ratings, vehicle capacity, or service guarantees.
+
+3. BRAND IDENTITY AND DESIGN SYSTEM
+
+Color Palette
+
+Analyze the supplied grayscale logo and use it as the visual source of truth.
+
+Build a consistent color system using:
+
+Charcoal: #34383D
+
+Graphite: #555B61
+
+Medium Gray: #858B91
+
+Silver Gray: #D9DDE1
+
+Soft Background: #F5F6F7
+
+Pure White: #FFFFFF
+
+Dark Background: #202327
+
+Use white as the primary page background, charcoal for main headings and strong CTAs, medium gray for secondary text, and silver gray for subtle borders, dividers, and backgrounds.
+
+The website should feel premium, modern, dependable, and minimal.
+
+Avoid unnecessary colorful accents, random gradients, excessive shadows, oversized rounded cards, and decorative elements that do not improve usability.
+
+Buttons should use charcoal or dark gray with white text. Secondary buttons should use white backgrounds with charcoal borders. Hover states should remain consistent with the grayscale identity.
+
+Typography
+
+Typography is extremely important to this project.
+
+Primary heading font: The Seasons
+
+Use The Seasons for the main homepage headline, page titles, section headings, and selected editorial statements. Maintain an elegant, high-end appearance with appropriate line height and letter spacing.
+
+Signature font: Elegant signature-style typography
+
+Use a refined script font for occasional short accents, such as a small handwritten-style phrase under a heading. Do not use signature typography for paragraphs, navigation, forms, buttons, addresses, or essential instructions.
+
+Body typography: Use Inter or Manrope for readable paragraphs, navigation, forms, labels, buttons, and interface elements.
+
+If The Seasons is unavailable, use a similar elegant serif alternative. Use appropriately licensed fonts.
+
+Maintain a clear typographic hierarchy across all seven pages.
+
+Logo Placement
+
+Use the supplied van icon exactly as provided.
+
+Place the logo in the top-left area of the header.
+
+Display the text MK Vane beside the logo.
+
+Use the icon independently as a favicon and browser icon.
+
+Include the logo and brand name in the footer.
+
+Use suitable logo variations for light and dark backgrounds without changing the original design.
+
+Keep the logo sharp, proportional, and properly spaced.
+
+Never stretch, redraw, recolor unpredictably, or add text inside the logo icon.
+
+The logo should look professional on desktop, tablets, and mobile screens.
+
+4. COMPLETE WEBSITE STRUCTURE — SEVEN SEPARATE PAGES
+
+Create the following pages with working internal navigation and clean URLs:
+
+Home — /
+
+About MK Vane — /about
+
+Services — /services
+
+How It Works — /how-it-works
+
+Book a Move — /book-a-move
+
+Areas We Cover — /areas-we-cover
+
+Contact & Help — /contact
+
+Every page must have its own meaningful content, polished layout, heading structure, appropriate metadata, and strong calls to action.
+
+The homepage should introduce the business and guide visitors toward booking. The other six pages must expand on the services, customer journey, booking process, locations, business information, and customer support.
+
+Do not create seven duplicate page layouts with only different headings. Each page should serve a different purpose while maintaining one consistent design system.
+
+PAGE 1 — HOME
+
+A. Premium Full-Screen Homepage Hero
+
+The homepage must begin with a cinematic, full-screen hero section.
+
+This is the most visually important part of the website.
+
+Use a genuine, high-resolution photograph of a real man-and-van vehicle or removal van. The truck or van must be large, clearly visible, and positioned centrally or slightly to one side based on the photograph's composition.
+
+The photograph should fill approximately 100vh of the desktop viewport and extend across the complete screen width.
+
+The hero must contain centered text over the van photograph.
+
+Do not use a small banner, a basic split-column hero, an illustrated truck, or a plain background in place of the requested full-screen photograph.
+
+Hero Header
+
+Place the supplied grayscale logo in the upper-left area, followed by the brand name MK Vane.
+
+Use a transparent header over the hero photograph. As the user scrolls, transition the header to a clean white background with dark-gray text and a subtle divider or shadow.
+
+Desktop navigation:
+
+Home
+
+About
+
+Services
+
+How It Works
+
+Areas We Cover
+
+Contact
+
+Book a Move
+
+Include a visible Book a Move CTA.
+
+On mobile, provide an accessible hamburger menu with a functional open/close interaction.
+
+Hero Content
+
+Use this exact initial headline:
+
+Your Move. Your Journey. Made Simple.
+
+Supporting text:
+
+“Planning a house move, a furniture collection, or a suitable transport booking? MK Vane helps you get started with a straightforward way to share your collection and delivery details.”
+
+Small eyebrow above the headline:
+
+MAN AND VAN • REMOVALS • TRANSPORT
+
+Primary button:
+
+BOOK YOUR MOVE
+
+Secondary button:
+
+CALL +44 7708 632170
+
+The primary button must open the Book a Move page. The secondary button must use the working telephone link tel:+447708632170.
+
+Use elegant The Seasons typography for the main heading. Keep the headline centered with an appropriate maximum width and generous spacing.
+
+Place a subtle charcoal overlay over the photograph to maintain text contrast without hiding the van.
+
+Use a separate responsive image crop or background position for mobile screens.
+
+Do not use AI-generated truck photographs. Use authentic, commercially licensed stock photography or genuine photographs provided by the business. Never present stock vehicles as the company's actual fleet.
+
+B. Introductory Brand Section
+
+After the hero, introduce the company with an elegant white-background section.
+
+Heading:
+
+A More Straightforward Way to Move
+
+Body copy:
+
+“Every move starts with a plan. You need to know what is being collected, where it needs to go, and how the journey will be arranged. MK Vane gives you a clear starting point to share these details, discuss your requirements, and enquire about a suitable man-and-van or removals service.”
+
+Use a refined editorial layout with the heading and copy on one side and a real moving-related photograph on the other.
+
+Add a subtle signature-style decorative phrase, such as “Moving forward, made simpler.”
+
+Button: DISCOVER MK VANE
+
+C. How the Booking Journey Works
+
+Create a clear four-step section with numbered stages and restrained motion.
+
+01 — Enter Your Locations
+
+Provide the pickup address or postcode and the destination address or postcode.
+
+02 — Tell Us What Needs Moving
+
+Ask about the property type, items, quantity, access requirements, and other useful details.
+
+03 — Submit Your Enquiry
+
+Send the information to MK Vane so the business can review the requested journey and requirements.
+
+04 — Confirm Your Arrangements
+
+The customer confirms the agreed service, quote, date, and other arrangements directly with the business.
+
+Do not suggest that a booking is confirmed simply because a user submits the website form.
+
+Button: START YOUR BOOKING
+
+D. Services Preview
+
+Introduce the proposed services with a premium visual grid.
+
+Suggested categories, each subject to business confirmation:
+
+House Removals
+
+Flat and Apartment Moves
+
+Man and Van
+
+Furniture Transportation
+
+Single-Item Moves
+
+Collection and Delivery
+
+Each service preview should contain a genuine photograph, an informative heading, a useful description, and a link to the Services page.
+
+Make it easy to remove services that the company does not offer.
+
+Do not publish unverified service claims.
+
+E. Pickup and Drop-Off Preview
+
+Create a prominent interactive booking panel within the homepage.
+
+Heading:
+
+Where Are We Collecting and Delivering?
+
+Fields:
+
+Collection postcode or address
+
+Delivery postcode or address
+
+Preferred moving date
+
+Type of move
+
+Button: PLAN MY MOVE
+
+The button should take the customer to the full Book a Move page with entered details preserved, where practical.
+
+Display a clear note that a submitted journey is an enquiry and does not confirm vehicle availability or a price.
+
+F. Local Business Section
+
+Heading:
+
+Based in Ipswich. Ready to Hear About Your Move.
+
+Display the supplied business address:
+
+3 Mersey Road, Ipswich, IP3 0QP, United Kingdom.
+
+Use a professional location-focused layout and a link to the Areas We Cover page.
+
+Do not claim coverage across particular towns or regions until the business confirms the service areas.
+
+G. Customer Information Section
+
+Add an informative section explaining how customers can prepare for moving day.
+
+Topics can include:
+
+Preparing boxes and belongings.
+
+Providing accurate collection and delivery addresses.
+
+Mentioning stairs, restricted access, or parking conditions.
+
+Estimating the number and size of items.
+
+Sharing special handling requirements in advance.
+
+Avoid unsupported promises about packing, storage, heavy lifting, insurance, or specialist equipment.
+
+H. App Promotion Section
+
+Create a premium mobile app promotional section toward the bottom of the homepage.
+
+Heading:
+
+Your Move, Organised Around You
+
+Supporting text:
+
+“MK Vane is building a convenient digital experience for customers who want a clearer way to share moving details and manage transport enquiries.”
+
+Show a realistic, non-branded smartphone interface mockup that represents the website or proposed booking experience. Use a genuine UI mockup, not an AI-generated photograph.
+
+Add two app-store badges:
+
+Google Play
+
+Apple App Store
+
+These badges must only link to real published applications when verified store URLs are provided.
+
+Until the applications are published, show clearly labelled Coming Soon states. Do not link to fake downloads, non-existent applications, or unrelated apps.
+
+I. Final Homepage CTA
+
+Use a full-width charcoal section with white text.
+
+Headline:
+
+Let's Get Your Move Started.
+
+Supporting text:
+
+“Tell us where your move begins, where you need to go, and what needs transporting.”
+
+Buttons:
+
+BOOK A MOVE
+
+CONTACT MK VANE
+
+Make these links work correctly.
+
+Finish with the global footer.
+
+PAGE 2 — ABOUT MK VANE
+
+Create a long-form, editorial-style About page that builds confidence and explains the business clearly.
+
+Hero
+
+Heading:
+
+About MK Vane
+
+Supporting copy:
+
+“Your starting point for man-and-van, removals, and transport enquiries in Ipswich.”
+
+Use authentic moving-related photography and a clean page-specific layout.
+
+Section 1 — Who We Are
+
+Suggested copy:
+
+“MK Vane is a locally based business serving customers who need to discuss a move or transport requirement. We understand that arranging a move involves more than simply choosing a date. Customers need to explain what is being moved, identify both locations, and discuss the details that can affect the arrangement.
+
+Our approach begins with clear information and direct communication. We aim to make it easier for customers to describe their requirements and contact the business to discuss the next steps.”
+
+Only include the service descriptions that the owner confirms.
+
+Section 2 — Our Approach
+
+Explain the importance of clear communication, accurate pickup and delivery details, realistic expectations, and agreed arrangements.
+
+Section 3 — What Customers Can Expect
+
+Describe the website's enquiry process:
+
+A clear way to submit moving details.
+
+An opportunity to describe items and access requirements.
+
+Direct business contact.
+
+Confirmation of service availability and arrangements before a booking is finalised.
+
+Section 4 — Our Location
+
+Display the verified Ipswich address and link to the Areas We Cover page.
+
+Section 5 — Final CTA
+
+Heading:
+
+Every Move Starts with a Conversation.
+
+Button: GET IN TOUCH
+
+Do not invent business history, staff profiles, founding dates, customer numbers, awards, or years of experience.
+
+PAGE 3 — SERVICES
+
+Create a comprehensive, long-scrolling Services page that explains the types of moves customers may enquire about.
+
+Hero
+
+Heading:
+
+Moving Services for Different Requirements
+
+Supporting copy:
+
+“From a smaller collection to a household move, start by telling us what needs transporting and where it needs to go.”
+
+Use a large, genuine transport photograph.
+
+Service Category 1 — House Removals
+
+Suggested description:
+
+“Planning a move from one home to another? Share the collection address, destination, preferred date, property details, and an overview of the belongings you need moved.”
+
+Only publish this service once confirmed by the business.
+
+Service Category 2 — Flat and Apartment Moves
+
+“Moving between apartments can involve access restrictions, stairs, lifts, and limited parking. Include these details in your enquiry so the requirements can be reviewed before arrangements are confirmed.”
+
+Service Category 3 — Man and Van
+
+“For suitable smaller moves or transport requirements, describe the items, locations, and preferred date. The business can review your enquiry and confirm whether it can accommodate the request.”
+
+Service Category 4 — Furniture Transportation
+
+“Need to move furniture between addresses? Tell us what the item is, its approximate size, whether it can be moved safely, and whether there are access considerations.”
+
+Service Category 5 — Single-Item Moves
+
+“Some enquiries involve one large item or a small number of belongings rather than an entire property. Provide clear item descriptions, photographs where useful, and accurate collection and delivery details.”
+
+Service Category 6 — Collection and Delivery
+
+“Explain what needs to be collected, where it is located, where it needs to go, and whether any collection instructions must be followed.”
+
+These are proposed categories, not verified business commitments. Make each category editable and removable.
+
+Do not advertise piano moving, waste disposal, house clearance, vehicle recovery, specialist lifting, packing, storage, or long-distance transport unless the owner confirms these services.
+
+How to Request a Quote
+
+Create a detailed section explaining what customers should prepare before submitting a service enquiry.
+
+Include:
+
+Collection address or postcode.
+
+Delivery address or postcode.
+
+Preferred moving date.
+
+Item descriptions and approximate quantities.
+
+Property type.
+
+Stairs, lift, parking, and access information.
+
+Special instructions.
+
+Contact details.
+
+Pricing Transparency
+
+Do not invent fixed prices, hourly rates, minimum charges, mileage prices, or instant estimates.
+
+If pricing is not configured, explain that customers should submit their requirements for review and wait for the business to confirm the quote.
+
+CTA
+
+Heading:
+
+Tell Us What You Need to Move.
+
+Button: REQUEST A QUOTE
+
+PAGE 4 — HOW IT WORKS
+
+Create a dedicated customer journey page with a detailed, professional step-by-step interface.
+
+Hero
+
+Heading:
+
+A Clearer Way to Arrange Your Move
+
+Supporting text:
+
+“Provide your locations, describe your requirements, and contact MK Vane to discuss the next steps.”
+
+Step 1 — Enter Your Pickup Location
+
+Ask customers to provide the collection address or postcode.
+
+Explain that accurate information helps identify where the journey begins.
+
+Step 2 — Enter Your Drop-Off Location
+
+Ask customers to provide the delivery address or postcode.
+
+Explain that the destination should include the correct street address or postcode, with additional access instructions where required.
+
+Step 3 — Describe the Move
+
+Ask for:
+
+Property type or collection type.
+
+Number and description of items.
+
+Approximate dimensions where appropriate.
+
+Whether items are particularly heavy or fragile.
+
+Floors, stairs, lifts, and access restrictions.
+
+Parking or entry instructions.
+
+Photographs where helpful and securely supported.
+
+Step 4 — Select a Preferred Date
+
+Let customers select their preferred moving date and an optional preferred time range.
+
+Make it clear that requested times are preferences and are not confirmed until the business agrees.
+
+Step 5 — Provide Contact Details
+
+Collect name, phone number, and optional email.
+
+Explain that the business needs correct contact information to follow up on the enquiry.
+
+Step 6 — Submit and Review
+
+Once submitted, display a confirmation message only after the form service confirms successful delivery.
+
+Suggested success message:
+
+“Thank you for contacting MK Vane. Your enquiry has been submitted successfully. The details you provided will be reviewed, and the business can contact you using your supplied contact information.”
+
+Do not display this success message when the form submission fails.
+
+Step 7 — Confirm the Arrangement
+
+Explain that the business must confirm availability, any agreed charges, service details, and final booking arrangements.
+
+Make it clear that submitting an online enquiry is not the same as a confirmed booking.
+
+Additional Section — Frequently Asked Questions
+
+Include editable questions about the booking journey, service availability, changing requested dates, providing photographs, access arrangements, and requesting a quote.
+
+Keep answers accurate and do not invent business policies.
+
+CTA: START YOUR ENQUIRY
+
+PAGE 5 — BOOK A MOVE
+
+This is the most important functional page after the homepage. Make it feel like a professional booking and journey-request interface.
+
+Use a clean, modern, structured form that is simple enough for customers to complete on mobile devices.
+
+Hero
+
+Heading:
+
+Plan Your Pickup and Delivery
+
+Supporting copy:
+
+“Enter your collection and destination details, describe what needs to move, and submit your enquiry to MK Vane.”
+
+Booking Interface
+
+Use a well-structured, multi-step form with a visible progress indicator.
+
+Suggested steps:
+
+Your Locations
+
+Moving Details
+
+Date and Time
+
+Contact Information
+
+Review and Submit
+
+Allow the customer to move backward and forward without losing entered information.
+
+STEP 1 — COLLECTION LOCATION
+
+Heading:
+
+Where Should We Collect From?
+
+Fields:
+
+Collection Address
+
+Collection Postcode
+
+Property or Location Type
+
+Access Instructions
+
+Property or location type may include a house, flat or apartment, business premises, or other location.
+
+Allow the customer to provide additional information about stairs, lifts, loading access, or parking.
+
+STEP 2 — DELIVERY LOCATION
+
+Heading:
+
+Where Should We Deliver To?
+
+Fields:
+
+Destination Address
+
+Destination Postcode
+
+Property or Location Type
+
+Delivery Access Instructions
+
+Include a clear option to indicate whether the customer needs help with a collection and delivery process involving more than two stops. Only support multiple stops if the interface and booking backend can handle them correctly.
+
+STEP 3 — WHAT NEEDS MOVING?
+
+Heading:
+
+Tell Us About Your Move
+
+Fields:
+
+Type of Service — confirmed business services only.
+
+Number of Items — optional.
+
+Item Description — required where appropriate.
+
+Approximate Item Dimensions — optional.
+
+Property Size — optional.
+
+Floors or Stairs — optional.
+
+Lift Availability — optional.
+
+Large or Heavy Items — optional.
+
+Fragile Items — optional.
+
+Additional Requirements — optional.
+
+Photograph Upload — optional, if secure file handling is implemented.
+
+Do not request unnecessary personal information.
+
+Explain that the customer should provide enough information for the business to understand the job before discussing the quote.
+
+STEP 4 — DATE AND TIME
+
+Heading:
+
+When Would You Like to Move?
+
+Fields:
+
+Preferred Date.
+
+Alternative Date — optional.
+
+Preferred Time Range.
+
+Flexibility Notes — optional.
+
+Never show false real-time availability. The customer is expressing a preference, not reserving a confirmed timeslot.
+
+STEP 5 — CONTACT INFORMATION
+
+Heading:
+
+How Can We Contact You?
+
+Fields:
+
+Full Name — required.
+
+Phone Number — required.
+
+Email Address — optional or required only if the selected workflow needs it.
+
+Additional Contact Instructions — optional.
+
+Display a privacy notice explaining how the submitted information will be used to handle the enquiry.
+
+Do not publish customer details or uploaded photographs publicly.
+
+STEP 6 — REVIEW YOUR REQUEST
+
+Show a complete summary of the information entered:
+
+Pickup address.
+
+Destination address.
+
+Moving details.
+
+Requested date and time.
+
+Customer contact information.
+
+Provide an Edit option for each step.
+
+Require the customer to confirm that the information is accurate before submission.
+
+FINAL SUBMISSION
+
+Button: SUBMIT MOVE ENQUIRY
+
+After a successful submission, display a clear confirmation screen.
+
+If submission fails, retain the customer's information where safely possible and show an understandable error message with an option to retry or contact the business.
+
+Optional Route Preview
+
+Where properly implemented, show a map preview with the collection and destination markers.
+
+A distance or travel-time estimate may be displayed only when calculated using a reliable mapping service. Clearly label any estimate as approximate.
+
+Do not invent mileage, duration, route availability, or pricing.
+
+Important Booking Rules
+
+Submission does not guarantee availability.
+
+Submission does not automatically confirm a booking.
+
+Do not claim payment has been taken if no payment integration exists.
+
+Do not display an instant price without a genuine pricing calculation system.
+
+Never expose API credentials in client-side code.
+
+Route calculations and booking data must be handled securely.
+
+PAGE 6 — AREAS WE COVER
+
+Create a dedicated local SEO and location page.
+
+Hero
+
+Heading:
+
+Serving Ipswich and Discussing Your Moving Requirements
+
+Supporting text:
+
+“MK Vane is based in Ipswich, Suffolk. Contact the business with your collection and destination postcodes to check whether your requested journey can be accommodated.”
+
+Business Address
+
+MK Vane
+
+3 Mersey Road, Ipswich, IP3 0QP, United Kingdom.
+
+Professional Google Maps Integration
+
+Create a properly styled interactive map section.
+
+Use the supplied address:
+
+3 Mersey Road, Ipswich, IP3 0QP, United Kingdom
+
+Use this Google Maps search link:
+
+https://www.google.com/maps/search/?api=1&query=3+Mersey+Road%2C+Ipswich+IP3+0QP%2C+United+Kingdom
+
+Add a GET DIRECTIONS button that opens Google Maps using the correct destination.
+
+Requirements:
+
+Responsive map layout.
+
+Clear display of the supplied address.
+
+Professionally proportioned map container.
+
+Accessible controls and readable text.
+
+Good contrast in the surrounding layout.
+
+Correct Google Maps destination.
+
+No invented map coordinates.
+
+Use a legitimate Google Maps embed method where permitted. If an API key or billing configuration is required, document it rather than inventing credentials.
+
+Do not describe the address as a publicly accessible office or customer collection point unless that has been confirmed.
+
+Coverage Information
+
+Display Ipswich as the confirmed primary location.
+
+Create an editable service-area list for additional towns and areas. Keep unconfirmed areas out of published claims until the business confirms coverage.
+
+Avoid statements such as “covering the entire UK” unless verified.
+
+Location-Based Enquiries
+
+Explain that customers can enter both locations on the booking page so the business can review the requested journey.
+
+CTA: CHECK YOUR JOURNEY
+
+PAGE 7 — CONTACT & HELP
+
+Create a comprehensive Contact and Help page that makes the business easy to reach.
+
+Hero
+
+Heading:
+
+Talk to MK Vane About Your Move
+
+Supporting copy:
+
+“Have a question about a collection, delivery, or moving requirement? Get in touch and share the details so the business can review your enquiry.”
+
+Contact Information
+
+Business name: MK Vane
+
+Phone: +44 7708 632170
+
+Email: SERVICES@gmail.com
+
+Address: 3 Mersey Road, Ipswich, IP3 0QP, United Kingdom.
+
+Create working contact links:
+
+Telephone: tel:+447708632170
+
+Email: mailto:SERVICES@gmail.com
+
+Google Maps:
+
+https://www.google.com/maps/search/?api=1&query=3+Mersey+Road%2C+Ipswich+IP3+0QP%2C+United+Kingdom
+
+WhatsApp:
+
+https://wa.me/447708632170
+
+The WhatsApp link must open a conversation with the correct number.
+
+Suggested prefilled message:
+
+“Hello MK Vane, I would like to enquire about a move. Could you please let me know what information you need?”
+
+Contact Form
+
+Build a fully functional enquiry form with:
+
+Full Name.
+
+Phone Number.
+
+Email Address.
+
+Enquiry Type.
+
+Collection Postcode — optional.
+
+Destination Postcode — optional.
+
+Message or Question.
+
+Privacy Notice.
+
+Button: SEND ENQUIRY
+
+Connect the form to a real, secure submission destination configured for the business.
+
+The supplied business email may be used as the intended recipient only after email delivery has been properly configured and tested. Do not assume that a visible email address automatically creates working form delivery.
+
+Frequently Asked Questions
+
+Include clear, detailed, editable answers about:
+
+How to request a quote.
+
+How to submit pickup and delivery addresses.
+
+What information is useful when describing a move.
+
+How to enquire about a preferred date.
+
+How service availability is confirmed.
+
+How to contact the business.
+
+How to correct details after an enquiry.
+
+What happens after form submission.
+
+Do not invent opening hours, response times, payment procedures, cancellation policies, deposit requirements, or booking guarantees.
+
+Final CTA
+
+Heading:
+
+Let's Talk About Your Moving Requirements.
+
+Buttons:
+
+CALL MK VANE
+
+BOOK A MOVE
+
+5. GLOBAL HEADER AND NAVIGATION
+
+Create a consistent header across all seven pages.
+
+On desktop:
+
+Logo icon and MK Vane brand name on the left.
+
+Main navigation.
+
+Strong but elegant Book a Move button.
+
+Plenty of whitespace.
+
+On mobile:
+
+Logo and brand name.
+
+Compact hamburger menu.
+
+Easy-to-use navigation controls.
+
+Accessible booking action.
+
+The header should start transparent on the homepage hero, where appropriate, and transition smoothly to a solid light background during scrolling.
+
+Use restrained hover effects, clear active-page indicators, and functional links. Do not make navigation unnecessarily tall or cluttered.
+
+6. GLOBAL FOOTER AND APP STORE AREA
+
+Create a detailed, premium footer with a dark charcoal background and white or silver-gray text.
+
+Include:
+
+Brand
+
+MK Vane logo.
+
+MK Vane name.
+
+Short business description.
+
+Navigation
+
+Home.
+
+About.
+
+Services.
+
+How It Works.
+
+Book a Move.
+
+Areas We Cover.
+
+Contact.
+
+Contact
+
++44 7708 632170.
+
+SERVICES@gmail.com.
+
+3 Mersey Road, Ipswich, IP3 0QP, United Kingdom.
+
+Useful Links
+
+Privacy Policy.
+
+Terms and Conditions.
+
+Booking Information.
+
+Accessibility Information.
+
+Cookie Preferences, when required.
+
+Mobile App Section
+
+Google Play badge or Coming Soon badge.
+
+Apple App Store badge or Coming Soon badge.
+
+Only link to real published applications. Until actual store URLs are available, use clearly labelled coming-soon states, not false download links.
+
+Use a dynamic copyright year and consistent footer spacing.
+
+7. SCROLL ANIMATIONS AND INTERACTIONS
+
+The user expects a premium scrolling experience with text and content animations.
+
+Implement restrained, professional motion throughout all pages.
+
+Recommended effects:
+
+Gentle headline entrance on the homepage hero.
+
+Fade-in and subtle upward movement for section headings.
+
+Staggered text and content reveal as the user scrolls.
+
+Subtle image reveal.
+
+Smooth transitions between sections.
+
+Elegant button hover states.
+
+Header transition during scrolling.
+
+Mobile navigation animation.
+
+Booking progress transitions.
+
+A subtle success-state animation when a form submission is confirmed.
+
+Use short, natural animations. Avoid excessive parallax, constant movement, distracting background effects, spinning elements, and bouncing cards.
+
+Respect reduced-motion preferences. All text must remain available and readable when animations are disabled.
+
+Make sure animation effects do not cause text to flash, overlap, disappear, or interfere with accessibility.
+
+8. CONTENT QUALITY AND TYPOGRAPHY RULES
+
+All website text must be clear, professional, grammatically correct, and suitable for customers in the UK.
+
+Use British English spelling and terminology consistently.
+
+Examples:
+
+“Enquiry” rather than “inquiry” where appropriate.
+
+“Personalised” rather than “personalized”.
+
+“Organise” rather than “organize”.
+
+Clear UK-style address and postcode presentation.
+
+Use The Seasons for display headings and the chosen signature font for occasional short accents. Use a readable sans-serif font for the majority of written content and every form.
+
+Do not use awkward AI-sounding slogans, repetitive paragraphs, placeholder text on the published website, excessive exclamation marks, or unverified claims.
+
+Write useful, detailed content. However, length must come from meaningful information, customer guidance, service explanations, FAQs, and practical instructions—not repetitive filler.
+
+Proofread every heading, paragraph, button, form label, validation message, success message, page title, metadata field, and footer link before launch.
+
+Ensure the brand is consistently written as MK Vane.
+
+9. SEO AND LOCAL SEARCH
+
+Configure all seven pages for search engines.
+
+Implement:
+
+Unique page titles.
+
+Unique meta descriptions.
+
+One clear primary heading per page.
+
+Logical H1, H2, and H3 structure.
+
+Descriptive and readable URLs.
+
+Internal links between relevant pages.
+
+Descriptive image alt text.
+
+Open Graph metadata.
+
+Canonical URLs when the final domain is known.
+
+XML sitemap.
+
+Robots.txt.
+
+Appropriate LocalBusiness structured data with verified details.
+
+Suitable indexing settings.
+
+Optimised page speed and image delivery.
+
+Use relevant local search terms naturally where supported by the actual services, including:
+
+Man and Van Ipswich.
+
+Removals Ipswich.
+
+Man and Van Services Ipswich.
+
+Collection and Delivery Ipswich.
+
+Moving Services Ipswich.
+
+Do not publish unsupported service-area claims or add fabricated ratings, opening hours, awards, coordinates, and social links to structured data.
+
+10. TECHNICAL IMPLEMENTATION REQUIREMENTS
+
+Build a complete, maintainable, production-ready website using the available platform and tools.
+
+Requirements:
+
+Reusable page components and consistent design tokens.
+
+Responsive layouts for desktop, tablet, and mobile.
+
+Working routing between all seven pages.
+
+Functional menus, buttons, and internal links.
+
+Secure booking and contact forms.
+
+Reliable form validation and error handling.
+
+Appropriate data protection.
+
+Safe image uploads if enabled.
+
+No exposed API keys.
+
+Real mapping integration where configured.
+
+No fabricated routes or automatic prices.
+
+Fast loading and optimized images.
+
+Semantic HTML and accessibility best practices.
+
+Visible keyboard focus.
+
+Suitable color contrast.
+
+Reduced-motion support.
+
+HTTPS for production deployment.
+
+Privacy and cookie controls as applicable.
+
+Use genuine, commercially licensed photographs or photographs supplied by the business. Do not use AI-generated truck photography or fabricated customer photographs.
+
+If a required external service is unavailable, clearly document the integration and configuration needed. Do not simulate live functionality or claim an integration works unless it has been implemented and tested.
+
+11. FINAL QUALITY CHECKLIST
+
+Before completing the website, verify all of the following:
+
+All seven pages exist as separate working pages.
+
+The homepage has a full-screen real van photograph.
+
+The homepage text is centered over the image.
+
+The logo and MK Vane name appear correctly in the top navigation.
+
+The grayscale visual identity remains consistent.
+
+The Seasons and signature typography are applied appropriately.
+
+Every page has detailed, proofread, professional content.
+
+Customers can enter pickup and drop-off locations.
+
+Customers can describe the items to move.
+
+Customers can select a preferred date and time.
+
+The booking form validates required information.
+
+Successful submissions are confirmed only after the backend acknowledges receipt.
+
+Collection and destination details are handled securely.
+
+Maps and directions use the supplied Ipswich address correctly.
+
+The phone, email, WhatsApp, and contact links work.
+
+The app promotion section includes appropriate Coming Soon states until published app links exist.
+
+Scroll animations work without hiding or breaking content.
+
+The website works on mobile, tablet, and desktop.
+
+All images load properly and have suitable alt text.
+
+No fake customer reviews, false availability, fabricated prices, or unverified company claims appear.
+
+SEO metadata and internal links are configured properly.
+
+The site has no broken buttons, overlapping text, horizontal overflow, or obvious console errors.
+
+FINAL DESIGN GOAL
+
+Deliver a complete, long-scrolling, premium seven-page website for MK Vane, featuring a cinematic van-based homepage, elegant The Seasons typography, carefully placed signature accents, a grayscale brand system, a detailed pickup and drop-off booking experience, professional Google Maps integration, clear contact options, animated scrolling sections, and a polished mobile-app promotion area.
+
+The final result should look custom-designed for MK Vane and be ready for real customers once the required backend, domain, and any unpublished app integrations are configured.

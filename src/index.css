@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-charcoal: #34383D;
+    --color-graphite: #555B61;
+    --color-medium-gray: #858B91;
+    --color-silver-gray: #D9DDE1;
+    --color-soft-bg: #F5F6F7;
+    --color-pure-white: #FFFFFF;
+    --color-dark-bg: #202327;
+  }
+
+  html {
+    font-family: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+    scroll-behavior: smooth;
+    color: #34383D;
+    background-color: #FFFFFF;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+.font-seasons {
+  font-family: 'The Seasons', 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-signature {
+  font-family: 'Alex Brush', cursive;
+}
+
+.font-sans-body {
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.text-balance {
+  text-wrap: balance;
+}

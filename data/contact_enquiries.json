@@ -1,0 +1,15 @@
+[
+  {
+    "reference": "ENQ-261029-4NM80",
+    "receivedAt": "2026-10-29T18:35:35.883Z",
+    "intendedRecipientEmail": "SERVICES@gmail.com",
+    "status": "unread_enquiry",
+    "fullName": "AmeliaClarke",
+    "phoneNumber": "+44 7708 632170",
+    "emailAddress": "amelia@example.co.uk",
+    "enquiryType": "Quote / Move Enquiry",
+    "collectionPostcode": "IP3 0QP",
+    "destinationPostcode": "IP1 2BG",
+    "message": "Hello MK Vane, could we enquire about moving two wardrobes and ten boxes in Ipswich?"
+  }
+]

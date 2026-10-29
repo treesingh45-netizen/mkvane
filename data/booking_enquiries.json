@@ -1,0 +1,48 @@
+[
+  {
+    "reference": "MKV-261029-HX0T3",
+    "receivedAt": "2026-10-29T18:33:06.674Z",
+    "intendedRecipientEmail": "SERVICES@gmail.com",
+    "status": "pending_business_review",
+    "collection": {
+      "address": "3 Mersey Road, Ipswich",
+      "postcode": "IP3 0QP",
+      "propertyType": "House",
+      "accessInstructions": ""
+    },
+    "destination": {
+      "address": "18 Buttermarket, Ipswich",
+      "postcode": "IP1 3QH",
+      "propertyType": "House",
+      "accessInstructions": "",
+      "hasAdditionalStops": false,
+      "additionalStopsDetails": ""
+    },
+    "moveDetails": {
+      "serviceType": "House Removals",
+      "numberOfItems": "",
+      "itemDescription": "Two-seater grey sofa, wooden dining table with 4 chairs, and 14 taped boxes.",
+      "approximateDimensions": "",
+      "propertySize": "",
+      "floorsOrStairs": "Ground floor only",
+      "liftAvailability": "Not applicable",
+      "largeOrHeavyItems": "",
+      "fragileItems": "",
+      "additionalRequirements": "",
+      "photoAttachmentCount": 0,
+      "photoAttachments": []
+    },
+    "schedulePreference": {
+      "preferredDate": "2026-11-20",
+      "alternativeDate": "",
+      "preferredTimeRange": "Flexible / To be discussed",
+      "flexibilityNotes": ""
+    },
+    "contact": {
+      "fullName": "Charlotte Bennett",
+      "phoneNumber": "+44 7708 632170",
+      "emailAddress": "charlotte.bennett@example.co.uk",
+      "additionalContactInstructions": ""
+    }
+  }
+]
